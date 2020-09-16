@@ -1011,6 +1011,10 @@ header .navLinks li a:hover {
         font-size: 16px;
     }
 
+    .content .bannerText a:hover {
+        background: none;
+    }
+
     /* Plans Section------------------------------- */
     
     .card {
@@ -1032,6 +1036,10 @@ header .navLinks li a:hover {
         font-size: 16px;
         padding: 12px 80px;
         width: 100%;
+    }
+
+    .plans-cta a:hover {
+        background: none;
     }
 
 }
