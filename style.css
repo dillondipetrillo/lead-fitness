@@ -1018,6 +1018,10 @@ header .navLinks li a:hover {
         min-width: 310px;
     }
 
+    .card a:hover {
+        background: none;
+    }
+
     /* CTA Section--------------------------------- */
 
     .cta-container {
